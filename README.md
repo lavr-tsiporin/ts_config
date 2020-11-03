@@ -1,4 +1,4 @@
 # ts_config
-tsconfig.json
-.prettierrc
-.eslintrc
+- tsconfig.json
+- .prettierrc
+- .eslintrc
